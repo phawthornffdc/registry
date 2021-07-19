@@ -1,0 +1,14 @@
+[
+	{
+		"package": "package1",
+		"uri": "https://github.com/phawthornffdc/package1.git"
+	},
+	{
+		"package": "component1",
+		"uri": "https://github.com/phawthornffdc/component1.git"
+	},
+	{
+		"package": "component2",
+		"uri": "https://github.com/phawthornffdc/component2.git"
+	}
+]
